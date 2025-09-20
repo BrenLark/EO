@@ -8,7 +8,7 @@
         "title": "Marqueue",
         "image": "",
         "start": "2025-09-20T02:00:00.000Z",
-        "end": "2025-09-20T07:00:00.000Z",
+        "end": "2025-09-19T07:00:00.000Z",
         "location": "The Edge NYC",
         "description": ""
       },
@@ -124,7 +124,7 @@
         "description": ""
       },
       {
-        "title": "New Event",
+        "title": "John Summit",
         "image": "",
         "start": "2025-09-21T00:00:00.000Z",
         "end": "2025-09-21T02:00:00.000Z",
@@ -157,7 +157,7 @@
       {
         "title": "Teed",
         "image": "",
-        "start": "2025-09-20T21:02:00.000Z",
+        "start": "2025-09-20T21:00:00.000Z",
         "end": "2025-09-20T22:30:00.000Z",
         "location": "Mirror Field",
         "description": ""
@@ -228,7 +228,7 @@
       {
         "title": "Beni Hana",
         "image": "",
-        "start": "2025-09-20T21:30:00.000Z",
+        "start": "2025-09-19T21:30:00.000Z",
         "end": "2025-09-20T23:00:00.000Z",
         "location": "Pwemium Wounge",
         "description": ""

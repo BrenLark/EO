@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Pre & Afters",
+    "description": "",
+    "color": "#ff7300",
+    "events": [
+      {
+        "title": "Marqueue",
+        "image": "",
+        "start": "2025-09-20T02:00:00.000Z",
+        "end": "2025-09-20T07:00:00.000Z",
+        "location": "The Edge NYC",
+        "description": ""
+      },
+      {
+        "title": "Brooklyn Storehouse",
+        "image": "",
+        "start": "2025-09-21T02:00:00.000Z",
+        "end": "2025-09-21T09:00:00.000Z",
+        "location": "Building 293, Brooklyn Navy Yard, Assembly Rd, Brooklyn, NY 11205",
+        "description": ""
+      },
+      {
+        "title": "Unveiled",
+        "image": "",
+        "start": "2025-09-21T02:00:00.000Z",
+        "end": "2025-09-21T08:00:00.000Z",
+        "location": "94 N 13th St, Brooklyn, NY 11249",
+        "description": ""
+      },
+      {
+        "title": "53 Scott",
+        "image": "",
+        "start": "2025-09-22T02:30:00.000Z",
+        "end": "2025-09-21T06:00:00.000Z",
+        "location": "53 Scott Avenue, Brooklyn, NY 11237",
+        "description": ""
+      },
+      {
+        "title": "Refuge",
+        "image": "",
+        "start": "2025-09-22T03:00:00.000Z",
+        "end": "2025-09-21T07:00:00.000Z",
+        "location": "360 Ten Eyck St, Brooklyn, NY 11206",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Main Stage",
+    "description": "",
+    "color": "#00db37",
+    "events": [
+      {
+        "title": "Lumina",
+        "image": "",
+        "start": "2025-09-21T19:00:00.000Z",
+        "end": "2025-09-21T20:00:00.000Z",
+        "location": "Main Stage",
+        "description": ""
+      },
+      {
+        "title": "Tini Gessler",
+        "image": "",
+        "start": "2025-09-21T20:00:00.000Z",
+        "end": "2025-09-21T21:00:00.000Z",
+        "location": "Main Stage",
+        "description": ""
+      },
+      {
+        "title": "LP Giobbi",
+        "image": "",
+        "start": "2025-09-21T21:00:00.000Z",
+        "end": "2025-09-21T22:30:00.000Z",
+        "location": "Main Stage",
+        "description": ""
+      },
+      {
+        "title": "Kaskade B2B Cassian",
+        "image": "",
+        "start": "2025-09-21T22:30:00.000Z",
+        "end": "2025-09-22T00:00:00.000Z",
+        "location": "Main Stage",
+        "description": ""
+      },
+      {
+        "title": "John Summit",
+        "image": "",
+        "start": "2025-09-22T00:00:00.000Z",
+        "end": "2025-09-22T02:00:00.000Z",
+        "location": "Main Stage",
+        "description": ""
+      },
+      {
+        "title": "Kamino",
+        "image": "",
+        "start": "2025-09-20T19:00:00.000Z",
+        "end": "2025-09-20T20:00:00.000Z",
+        "location": "Main Stage",
+        "description": ""
+      },
+      {
+        "title": "Roddy Lima",
+        "image": "",
+        "start": "2025-09-20T20:00:00.000Z",
+        "end": "2025-09-20T21:00:00.000Z",
+        "location": "Main Stage",
+        "description": ""
+      },
+      {
+        "title": "Ayybo",
+        "image": "",
+        "start": "2025-09-20T21:00:00.000Z",
+        "end": "2025-09-20T22:30:00.000Z",
+        "location": "Main Stage",
+        "description": ""
+      },
+      {
+        "title": "Green Velvet B2B Layton Giordani",
+        "image": "",
+        "start": "2025-09-20T22:30:00.000Z",
+        "end": "2025-09-21T00:00:00.000Z",
+        "location": "Main Stage",
+        "description": ""
+      },
+      {
+        "title": "New Event",
+        "image": "",
+        "start": "2025-09-21T00:00:00.000Z",
+        "end": "2025-09-21T02:00:00.000Z",
+        "location": "Main Stage",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Mirror Field",
+    "description": "",
+    "color": "#e9ec18",
+    "events": [
+      {
+        "title": "Eve Lauren",
+        "image": "",
+        "start": "2025-09-20T19:00:00.000Z",
+        "end": "2025-09-20T20:00:00.000Z",
+        "location": "Mirror Field",
+        "description": ""
+      },
+      {
+        "title": "Evamour B2B Weska",
+        "image": "",
+        "start": "2025-09-20T20:00:00.000Z",
+        "end": "2025-09-20T21:00:00.000Z",
+        "location": "Mirror Field",
+        "description": ""
+      },
+      {
+        "title": "Teed",
+        "image": "",
+        "start": "2025-09-20T21:02:00.000Z",
+        "end": "2025-09-20T22:30:00.000Z",
+        "location": "Mirror Field",
+        "description": ""
+      },
+      {
+        "title": "Pete Tong",
+        "image": "",
+        "start": "2025-09-20T22:30:00.000Z",
+        "end": "2025-09-21T00:00:00.000Z",
+        "location": "Mirror Field",
+        "description": ""
+      },
+      {
+        "title": "Tony Y Not",
+        "image": "",
+        "start": "2025-09-21T19:00:00.000Z",
+        "end": "2025-09-21T19:50:00.000Z",
+        "location": "Mirror Field",
+        "description": ""
+      },
+      {
+        "title": "??????????",
+        "image": "",
+        "start": "2025-09-21T19:50:00.000Z",
+        "end": "2025-09-21T20:50:00.000Z",
+        "location": "Mirror Field",
+        "description": ""
+      },
+      {
+        "title": "Kasablanca (Live)",
+        "image": "",
+        "start": "2025-09-21T21:00:00.000Z",
+        "end": "2025-09-21T22:30:00.000Z",
+        "location": "Mirror Field",
+        "description": ""
+      },
+      {
+        "title": "DJ Seinfeld",
+        "image": "",
+        "start": "2025-09-21T22:35:00.000Z",
+        "end": "2025-09-22T00:00:00.000Z",
+        "location": "Mirror Field",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Pwemium Wounge",
+    "description": "",
+    "color": "#ffffff",
+    "events": [
+      {
+        "title": "Simmi",
+        "image": "",
+        "start": "2025-09-20T19:00:00.000Z",
+        "end": "2025-09-20T20:00:00.000Z",
+        "location": "Pwemium Wounge",
+        "description": ""
+      },
+      {
+        "title": "Branqueeno",
+        "image": "",
+        "start": "2025-09-20T20:00:00.000Z",
+        "end": "2025-09-20T21:30:00.000Z",
+        "location": "Pwemium Wounge",
+        "description": ""
+      },
+      {
+        "title": "Beni Hana",
+        "image": "",
+        "start": "2025-09-20T21:30:00.000Z",
+        "end": "2025-09-20T23:00:00.000Z",
+        "location": "Pwemium Wounge",
+        "description": ""
+      },
+      {
+        "title": "B/AN/K",
+        "image": "",
+        "start": "2025-09-20T23:00:00.000Z",
+        "end": "2025-09-21T00:30:00.000Z",
+        "location": "Pwemium Wounge",
+        "description": ""
+      },
+      {
+        "title": "Poolhaus",
+        "image": "",
+        "start": "2025-09-21T00:30:00.000Z",
+        "end": "2025-09-21T02:00:00.000Z",
+        "location": "Pwemium Wounge",
+        "description": ""
+      },
+      {
+        "title": "Kenzii Scott",
+        "image": "",
+        "start": "2025-09-21T19:00:00.000Z",
+        "end": "2025-09-21T20:00:00.000Z",
+        "location": "Pwemium Wounge",
+        "description": ""
+      },
+      {
+        "title": "Van Der Laan",
+        "image": "",
+        "start": "2025-09-21T20:00:00.000Z",
+        "end": "2025-09-21T21:30:00.000Z",
+        "location": "Pwemium Wounge",
+        "description": ""
+      },
+      {
+        "title": "Josie.",
+        "image": "",
+        "start": "2025-09-21T21:30:00.000Z",
+        "end": "2025-09-21T23:00:00.000Z",
+        "location": "Pwemium Wounge",
+        "description": ""
+      },
+      {
+        "title": "Paver",
+        "image": "",
+        "start": "2025-09-21T23:00:00.000Z",
+        "end": "2025-09-22T00:30:00.000Z",
+        "location": "Pwemium Wounge",
+        "description": ""
+      },
+      {
+        "title": "Raw Safari",
+        "image": "",
+        "start": "2025-09-22T00:30:00.000Z",
+        "end": "2025-09-22T02:00:00.000Z",
+        "location": "Pwemium Wounge",
+        "description": ""
+      }
+    ]
+  }
+]

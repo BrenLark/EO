@@ -2,7 +2,7 @@
   {
     "name": "Pre & Afters",
     "description": "",
-    "color": "rgb(255 0 0)",
+    "color": "#e70000",
     "visible": true,
     "events": [
       {
@@ -138,7 +138,7 @@
   {
     "name": "Mirror Field",
     "description": "",
-    "color": "rgb(180 0 255 / 100%)",
+    "color": "#b400ff",
     "visible": true,
     "events": [
       {
@@ -210,7 +210,7 @@
   {
     "name": "Pwemium Wounge",
     "description": "",
-    "color": "rgb(255 157 0)",
+    "color": "#ff9d00",
     "visible": true,
     "events": [
       {
@@ -291,6 +291,30 @@
         "start": "2025-09-22T00:30:00.000Z",
         "end": "2025-09-22T02:00:00.000Z",
         "location": "Pwemium Wounge",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Ferry",
+    "description": "",
+    "color": "#00a7fa",
+    "active": true,
+    "events": [
+      {
+        "title": "Ferry",
+        "image": "",
+        "start": "2025-09-20T18:30:00.000Z",
+        "end": "2025-09-21T03:30:00.000Z",
+        "location": "35th St. & Randalls Island",
+        "description": ""
+      },
+      {
+        "title": "Ferry",
+        "image": "",
+        "start": "2025-09-21T18:30:00.000Z",
+        "end": "2025-09-22T03:30:00.000Z",
+        "location": "35th St. & Randalls Island",
         "description": ""
       }
     ]

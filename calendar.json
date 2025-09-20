@@ -2,7 +2,8 @@
   {
     "name": "Pre & Afters",
     "description": "",
-    "color": "#ff7300",
+    "color": "rgb(255 0 0)",
+    "visible": true,
     "events": [
       {
         "title": "Marqueue",
@@ -49,7 +50,8 @@
   {
     "name": "Main Stage",
     "description": "",
-    "color": "#00db37",
+    "color": "#64f710",
+    "visible": true,
     "events": [
       {
         "title": "Lumina",
@@ -136,7 +138,8 @@
   {
     "name": "Mirror Field",
     "description": "",
-    "color": "#e9ec18",
+    "color": "rgb(180 0 255 / 100%)",
+    "visible": true,
     "events": [
       {
         "title": "Eve Lauren",
@@ -207,7 +210,8 @@
   {
     "name": "Pwemium Wounge",
     "description": "",
-    "color": "#ffffff",
+    "color": "rgb(255 157 0)",
+    "visible": true,
     "events": [
       {
         "title": "Simmi",

@@ -1,532 +1,526 @@
 [
   {
-    name: "ETERNAL",
-    description: "Main Stage",
-    color: "#E2B714",
-    visible: true,
-    active: true,
-    events: [
-      // SATURDAY, MAY 30
+    "name": "ETERNAL",
+    "description": "Main Stage",
+    "color": "#E2B714",
+    "visible": true,
+    "active": true,
+    "events": [
       {
-        title: "DISCOVERY PROJECT: HOME BY DAWN",
-        image: "",
-        start: "May 30, 2026, 1:00 PM",
-        end: "May 30, 2026, 2:00 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "DISCOVERY PROJECT: HOME BY DAWN",
+        "image": "",
+        "start": "May 30, 2026, 1:00 PM",
+        "end": "May 30, 2026, 2:00 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "CHASEONAUX",
-        image: "",
-        start: "May 30, 2026, 2:00 PM",
-        end: "May 30, 2026, 3:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "CHASEONAUX",
+        "image": "",
+        "start": "May 30, 2026, 2:00 PM",
+        "end": "May 30, 2026, 3:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "DISTANT MATTER",
-        image: "",
-        start: "May 30, 2026, 3:30 PM",
-        end: "May 30, 2026, 4:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "DISTANT MATTER",
+        "image": "",
+        "start": "May 30, 2026, 3:30 PM",
+        "end": "May 30, 2026, 4:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "DJ MANDY",
-        image: "",
-        start: "May 30, 2026, 4:30 PM",
-        end: "May 30, 2026, 5:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "DJ MANDY",
+        "image": "",
+        "start": "May 30, 2026, 4:30 PM",
+        "end": "May 30, 2026, 5:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "LILLY PALMER",
-        image: "",
-        start: "May 30, 2026, 5:30 PM",
-        end: "May 30, 2026, 6:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "LILLY PALMER",
+        "image": "",
+        "start": "May 30, 2026, 5:30 PM",
+        "end": "May 30, 2026, 6:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "KREAM",
-        image: "",
-        start: "May 30, 2026, 6:30 PM",
-        end: "May 30, 2026, 7:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "KREAM",
+        "image": "",
+        "start": "May 30, 2026, 6:30 PM",
+        "end": "May 30, 2026, 7:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "DISCO LINES",
-        image: "",
-        start: "May 30, 2026, 7:30 PM",
-        end: "May 30, 2026, 8:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "DISCO LINES",
+        "image": "",
+        "start": "May 30, 2026, 7:30 PM",
+        "end": "May 30, 2026, 8:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "SARA LANDRY",
-        image: "",
-        start: "May 30, 2026, 8:30 PM",
-        end: "May 30, 2026, 9:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "SARA LANDRY",
+        "image": "",
+        "start": "May 30, 2026, 8:30 PM",
+        "end": "May 30, 2026, 9:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "ERIC PRYDZ",
-        image: "",
-        start: "May 30, 2026, 9:45 PM",
-        end: "May 30, 2026, 11:00 PM",
-        location: "ETERNAL",
-        description: ""
-      },
-      // SUNDAY, MAY 31
-      {
-        title: "ARYLIA",
-        image: "",
-        start: "May 31, 2026, 1:00 PM",
-        end: "May 31, 2026, 2:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "ERIC PRYDZ",
+        "image": "",
+        "start": "May 30, 2026, 9:45 PM",
+        "end": "May 30, 2026, 11:00 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "PROBCAUSE",
-        image: "",
-        start: "May 31, 2026, 2:30 PM",
-        end: "May 31, 2026, 3:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "ARYLIA",
+        "image": "",
+        "start": "May 31, 2026, 1:00 PM",
+        "end": "May 31, 2026, 2:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "AVELLO",
-        image: "",
-        start: "May 31, 2026, 3:30 PM",
-        end: "May 31, 2026, 4:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "PROBCAUSE",
+        "image": "",
+        "start": "May 31, 2026, 2:30 PM",
+        "end": "May 31, 2026, 3:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "YDG",
-        image: "",
-        start: "May 31, 2026, 4:30 PM",
-        end: "May 31, 2026, 5:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "AVELLO",
+        "image": "",
+        "start": "May 31, 2026, 3:30 PM",
+        "end": "May 31, 2026, 4:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "NINAJIRACHI",
-        image: "",
-        start: "May 31, 2026, 5:30 PM",
-        end: "May 31, 2026, 6:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "YDG",
+        "image": "",
+        "start": "May 31, 2026, 4:30 PM",
+        "end": "May 31, 2026, 5:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "ALLEYCVT",
-        image: "",
-        start: "May 31, 2026, 6:30 PM",
-        end: "May 31, 2026, 7:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "NINAJIRACHI",
+        "image": "",
+        "start": "May 31, 2026, 5:30 PM",
+        "end": "May 31, 2026, 6:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "GRYFFIN (SUNSET SET)",
-        image: "",
-        start: "May 31, 2026, 7:30 PM",
-        end: "May 31, 2026, 8:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "ALLEYCVT",
+        "image": "",
+        "start": "May 31, 2026, 6:30 PM",
+        "end": "May 31, 2026, 7:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "PORTER ROBINSON (DJ SET)",
-        image: "",
-        start: "May 31, 2026, 8:30 PM",
-        end: "May 31, 2026, 9:30 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "GRYFFIN (SUNSET SET)",
+        "image": "",
+        "start": "May 31, 2026, 7:30 PM",
+        "end": "May 31, 2026, 8:30 PM",
+        "location": "ETERNAL",
+        "description": ""
       },
       {
-        title: "EXCISION B2B SULLIVAN KING",
-        image: "",
-        start: "May 31, 2026, 9:45 PM",
-        end: "May 31, 2026, 11:00 PM",
-        location: "ETERNAL",
-        description: ""
+        "title": "PORTER ROBINSON (DJ SET)",
+        "image": "",
+        "start": "May 31, 2026, 8:30 PM",
+        "end": "May 31, 2026, 9:30 PM",
+        "location": "ETERNAL",
+        "description": ""
+      },
+      {
+        "title": "EXCISION B2B SULLIVAN KING",
+        "image": "",
+        "start": "May 31, 2026, 9:45 PM",
+        "end": "May 31, 2026, 11:00 PM",
+        "location": "ETERNAL",
+        "description": ""
       }
     ]
   },
   {
-    name: "PULSE",
-    description: "Hosted by Bassrush (Sat) / Insomniac Records (Sun)",
-    color: "#ff00ff",
-    visible: true,
-    active: false,
-    events: [
-      // SATURDAY, MAY 30
+    "name": "PULSE",
+    "description": "Hosted by Bassrush (Sat) / Insomniac Records (Sun)",
+    "color": "#ff00ff",
+    "visible": true,
+    "active": false,
+    "events": [
       {
-        title: "WOOK APPRUVD",
-        image: "",
-        start: "May 30, 2026, 1:00 PM",
-        end: "May 30, 2026, 1:35 PM",
-        location: "PULSE",
-        description: ""
+        "title": "WOOK APPRUVD",
+        "image": "",
+        "start": "May 30, 2026, 1:00 PM",
+        "end": "May 30, 2026, 1:35 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "SHIZZ LO B2B BRAINRACK",
-        image: "",
-        start: "May 30, 2026, 1:35 PM",
-        end: "May 30, 2026, 2:35 PM",
-        location: "PULSE",
-        description: ""
+        "title": "SHIZZ LO B2B BRAINRACK",
+        "image": "",
+        "start": "May 30, 2026, 1:35 PM",
+        "end": "May 30, 2026, 2:35 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "FLY",
-        image: "",
-        start: "May 30, 2026, 2:35 PM",
-        end: "May 30, 2026, 3:35 PM",
-        location: "PULSE",
-        description: ""
+        "title": "FLY",
+        "image": "",
+        "start": "May 30, 2026, 2:35 PM",
+        "end": "May 30, 2026, 3:35 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "MARY DROPPINZ",
-        image: "",
-        start: "May 30, 2026, 3:35 PM",
-        end: "May 30, 2026, 4:35 PM",
-        location: "PULSE",
-        description: ""
+        "title": "MARY DROPPINZ",
+        "image": "",
+        "start": "May 30, 2026, 3:35 PM",
+        "end": "May 30, 2026, 4:35 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "EFFIN",
-        image: "",
-        start: "May 30, 2026, 4:35 PM",
-        end: "May 30, 2026, 5:35 PM",
-        location: "PULSE",
-        description: ""
+        "title": "EFFIN",
+        "image": "",
+        "start": "May 30, 2026, 4:35 PM",
+        "end": "May 30, 2026, 5:35 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "G JONES B2B EPROM",
-        image: "",
-        start: "May 30, 2026, 5:35 PM",
-        end: "May 30, 2026, 6:35 PM",
-        location: "PULSE",
-        description: ""
+        "title": "G JONES B2B EPROM",
+        "image": "",
+        "start": "May 30, 2026, 5:35 PM",
+        "end": "May 30, 2026, 6:35 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "DIMENSION",
-        image: "",
-        start: "May 30, 2026, 6:35 PM",
-        end: "May 30, 2026, 7:35 PM",
-        location: "PULSE",
-        description: ""
+        "title": "DIMENSION",
+        "image": "",
+        "start": "May 30, 2026, 6:35 PM",
+        "end": "May 30, 2026, 7:35 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "RAY VOLPE",
-        image: "",
-        start: "May 30, 2026, 7:35 PM",
-        end: "May 30, 2026, 8:35 PM",
-        location: "PULSE",
-        description: ""
+        "title": "RAY VOLPE",
+        "image": "",
+        "start": "May 30, 2026, 7:35 PM",
+        "end": "May 30, 2026, 8:35 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "WOOLI",
-        image: "",
-        start: "May 30, 2026, 8:35 PM",
-        end: "May 30, 2026, 9:35 PM",
-        location: "PULSE",
-        description: ""
+        "title": "WOOLI",
+        "image": "",
+        "start": "May 30, 2026, 8:35 PM",
+        "end": "May 30, 2026, 9:35 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "ZEDS DEAD",
-        image: "",
-        start: "May 30, 2026, 9:45 PM",
-        end: "May 30, 2026, 11:00 PM",
-        location: "PULSE",
-        description: ""
-      },
-      // SUNDAY, MAY 31
-      {
-        title: "DAMON PIRKO & CHASE NORMAN",
-        image: "",
-        start: "May 31, 2026, 1:00 PM",
-        end: "May 31, 2026, 1:45 PM",
-        location: "PULSE",
-        description: ""
+        "title": "ZEDS DEAD",
+        "image": "",
+        "start": "May 30, 2026, 9:45 PM",
+        "end": "May 30, 2026, 11:00 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "AVISHEK",
-        image: "",
-        start: "May 31, 2026, 1:45 PM",
-        end: "May 31, 2026, 2:45 PM",
-        location: "PULSE",
-        description: ""
+        "title": "DAMON PIRKO & CHASE NORMAN",
+        "image": "",
+        "start": "May 31, 2026, 1:00 PM",
+        "end": "May 31, 2026, 1:45 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "SAMA",
-        image: "",
-        start: "May 31, 2026, 2:45 PM",
-        end: "May 31, 2026, 3:45 PM",
-        location: "PULSE",
-        description: ""
+        "title": "AVISHEK",
+        "image": "",
+        "start": "May 31, 2026, 1:45 PM",
+        "end": "May 31, 2026, 2:45 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "LINSKA",
-        image: "",
-        start: "May 31, 2026, 3:45 PM",
-        end: "May 31, 2026, 4:45 PM",
-        location: "PULSE",
-        description: ""
+        "title": "SAMA",
+        "image": "",
+        "start": "May 31, 2026, 2:45 PM",
+        "end": "May 31, 2026, 3:45 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "COCO & BREEZY",
-        image: "",
-        start: "May 31, 2026, 4:45 PM",
-        end: "May 31, 2026, 5:45 PM",
-        location: "PULSE",
-        description: ""
+        "title": "LINSKA",
+        "image": "",
+        "start": "May 31, 2026, 3:45 PM",
+        "end": "May 31, 2026, 4:45 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "DISCIP B2B RODDY LIMA",
-        image: "",
-        start: "May 31, 2026, 5:45 PM",
-        end: "May 31, 2026, 6:45 PM",
-        location: "PULSE",
-        description: ""
+        "title": "COCO & BREEZY",
+        "image": "",
+        "start": "May 31, 2026, 4:45 PM",
+        "end": "May 31, 2026, 5:45 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "MAX STYLER",
-        image: "",
-        start: "May 31, 2026, 6:45 PM",
-        end: "May 31, 2026, 7:45 PM",
-        location: "PULSE",
-        description: ""
+        "title": "DISCIP B2B RODDY LIMA",
+        "image": "",
+        "start": "May 31, 2026, 5:45 PM",
+        "end": "May 31, 2026, 6:45 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "LP GIOBBI",
-        image: "",
-        start: "May 31, 2026, 7:45 PM",
-        end: "May 31, 2026, 8:45 PM",
-        location: "PULSE",
-        description: ""
+        "title": "MAX STYLER",
+        "image": "",
+        "start": "May 31, 2026, 6:45 PM",
+        "end": "May 31, 2026, 7:45 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "CLOONEE",
-        image: "",
-        start: "May 31, 2026, 8:45 PM",
-        end: "May 31, 2026, 9:45 PM",
-        location: "PULSE",
-        description: ""
+        "title": "LP GIOBBI",
+        "image": "",
+        "start": "May 31, 2026, 7:45 PM",
+        "end": "May 31, 2026, 8:45 PM",
+        "location": "PULSE",
+        "description": ""
       },
       {
-        title: "MAU P",
-        image: "",
-        start: "May 31, 2026, 9:45 PM",
-        end: "May 31, 2026, 11:00 PM",
-        location: "PULSE",
-        description: ""
+        "title": "CLOONEE",
+        "image": "",
+        "start": "May 31, 2026, 8:45 PM",
+        "end": "May 31, 2026, 9:45 PM",
+        "location": "PULSE",
+        "description": ""
+      },
+      {
+        "title": "MAU P",
+        "image": "",
+        "start": "May 31, 2026, 9:45 PM",
+        "end": "May 31, 2026, 11:00 PM",
+        "location": "PULSE",
+        "description": ""
       }
     ]
   },
   {
-    name: "SECRET GARDEN",
-    description: "Secret Garden Stage",
-    color: "#E2B714",
-    visible: true,
-    active: false,
-    events: [
-      // SATURDAY, MAY 30
+    "name": "SECRET GARDEN",
+    "description": "Secret Garden Stage",
+    "color": "#E2B714",
+    "visible": true,
+    "active": false,
+    "events": [
       {
-        title: "SHEWOLFF",
-        image: "",
-        start: "May 30, 2026, 1:00 PM",
-        end: "May 30, 2026, 2:15 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "SHEWOLFF",
+        "image": "",
+        "start": "May 30, 2026, 1:00 PM",
+        "end": "May 30, 2026, 2:15 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "SILVERTONE",
-        image: "",
-        start: "May 30, 2026, 2:15 PM",
-        end: "May 30, 2026, 3:15 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "SILVERTONE",
+        "image": "",
+        "start": "May 30, 2026, 2:15 PM",
+        "end": "May 30, 2026, 3:15 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "MISHA",
-        image: "",
-        start: "May 30, 2026, 3:15 PM",
-        end: "May 30, 2026, 4:15 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "MISHA",
+        "image": "",
+        "start": "May 30, 2026, 3:15 PM",
+        "end": "May 30, 2026, 4:15 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "KY WILLIAM",
-        image: "",
-        start: "May 30, 2026, 4:15 PM",
-        end: "May 30, 2026, 5:15 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "KY WILLIAM",
+        "image": "",
+        "start": "May 30, 2026, 4:15 PM",
+        "end": "May 30, 2026, 5:15 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "RUZE",
-        image: "",
-        start: "May 30, 2026, 5:15 PM",
-        end: "May 30, 2026, 6:15 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "RUZE",
+        "image": "",
+        "start": "May 30, 2026, 5:15 PM",
+        "end": "May 30, 2026, 6:15 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "RANGER TRUCCO",
-        image: "",
-        start: "May 30, 2026, 6:15 PM",
-        end: "May 30, 2026, 7:45 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "RANGER TRUCCO",
+        "image": "",
+        "start": "May 30, 2026, 6:15 PM",
+        "end": "May 30, 2026, 7:45 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "RIORDAN",
-        image: "",
-        start: "May 30, 2026, 7:45 PM",
-        end: "May 30, 2026, 9:00 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "RIORDAN",
+        "image": "",
+        "start": "May 30, 2026, 7:45 PM",
+        "end": "May 30, 2026, 9:00 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "NICOLE MOUDABER B2B CHASEWEST",
-        image: "",
-        start: "May 30, 2026, 9:00 PM",
-        end: "May 30, 2026, 11:00 PM",
-        location: "SECRET GARDEN",
-        description: ""
-      },
-      // SUNDAY, MAY 31
-      {
-        title: "QUEER CHAOS",
-        image: "",
-        start: "May 31, 2026, 1:00 PM",
-        end: "May 31, 2026, 2:30 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "NICOLE MOUDABER B2B CHASEWEST",
+        "image": "",
+        "start": "May 30, 2026, 9:00 PM",
+        "end": "May 30, 2026, 11:00 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "ED BAILEY",
-        image: "",
-        start: "May 31, 2026, 2:30 PM",
-        end: "May 31, 2026, 3:30 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "QUEER CHAOS",
+        "image": "",
+        "start": "May 31, 2026, 1:00 PM",
+        "end": "May 31, 2026, 2:30 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "REZIDENT",
-        image: "",
-        start: "May 31, 2026, 3:30 PM",
-        end: "May 31, 2026, 4:30 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "ED BAILEY",
+        "image": "",
+        "start": "May 31, 2026, 2:30 PM",
+        "end": "May 31, 2026, 3:30 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "HAYLA",
-        image: "",
-        start: "May 31, 2026, 4:30 PM",
-        end: "May 31, 2026, 5:45 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "REZIDENT",
+        "image": "",
+        "start": "May 31, 2026, 3:30 PM",
+        "end": "May 31, 2026, 4:30 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "SPENCER BROWN B2B QRION",
-        image: "",
-        start: "May 31, 2026, 5:45 PM",
-        end: "May 31, 2026, 6:45 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "HAYLA",
+        "image": "",
+        "start": "May 31, 2026, 4:30 PM",
+        "end": "May 31, 2026, 5:45 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "COSMIC GATE",
-        image: "",
-        start: "May 31, 2026, 6:45 PM",
-        end: "May 31, 2026, 7:45 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "SPENCER BROWN B2B QRION",
+        "image": "",
+        "start": "May 31, 2026, 5:45 PM",
+        "end": "May 31, 2026, 6:45 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "ELI & FUR",
-        image: "",
-        start: "May 31, 2026, 7:45 PM",
-        end: "May 31, 2026, 8:45 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "COSMIC GATE",
+        "image": "",
+        "start": "May 31, 2026, 6:45 PM",
+        "end": "May 31, 2026, 7:45 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       },
       {
-        title: "CASSIAN",
-        image: "",
-        start: "May 31, 2026, 8:45 PM",
-        end: "May 31, 2026, 9:45 PM",
-        location: "SECRET GARDEN",
-        description: ""
+        "title": "ELI & FUR",
+        "image": "",
+        "start": "May 31, 2026, 7:45 PM",
+        "end": "May 31, 2026, 8:45 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
+      },
+      {
+        "title": "CASSIAN",
+        "image": "",
+        "start": "May 31, 2026, 8:45 PM",
+        "end": "May 31, 2026, 9:45 PM",
+        "location": "SECRET GARDEN",
+        "description": ""
       }
     ]
   },
   {
-    name: "Echostage",
-    description: "Official Pre-Parties and Afterparties",
-    color: "#000000",
-    visible: true,
-    active: false,
-    events: [
+    "name": "Echostage",
+    "description": "Official Pre-Parties and Afterparties",
+    "color": "#000000",
+    "visible": true,
+    "active": false,
+    "events": [
       {
-        title: "Project GLOW Pre-Party: Ray Volpe",
-        image: "",
-        start: "May 29, 2026, 10:00 PM",
-        end: "",
-        location: "Echostage",
-        description: "Get Tickets"
+        "title": "Project GLOW Pre-Party: Ray Volpe",
+        "image": "",
+        "start": "May 29, 2026, 10:00 PM",
+        "end": "",
+        "location": "Echostage",
+        "description": "Get Tickets"
       },
       {
-        title: "Project GLOW Afterparty: Riordan b2b Ranger Trucco",
-        image: "",
-        start: "May 30, 2026, 10:00 PM",
-        end: "",
-        location: "Echostage",
-        description: "Get Tickets"
+        "title": "Project GLOW Afterparty: Riordan b2b Ranger Trucco",
+        "image": "",
+        "start": "May 30, 2026, 10:00 PM",
+        "end": "",
+        "location": "Echostage",
+        "description": "Get Tickets"
       },
       {
-        title: "Project GLOW Afterparty: Excision",
-        image: "",
-        start: "May 31, 2026, 10:00 PM",
-        end: "",
-        location: "Echostage",
-        description: "Get Tickets"
+        "title": "Project GLOW Afterparty: Excision",
+        "image": "",
+        "start": "May 31, 2026, 10:00 PM",
+        "end": "",
+        "location": "Echostage",
+        "description": "Get Tickets"
       }
     ]
   },
   {
-    name: "Other Venues",
-    description: "Official Afterparties",
-    color: "#000000",
-    visible: true,
-    active: false,
-    events: [
+    "name": "Other Venues",
+    "description": "Official Afterparties",
+    "color": "#000000",
+    "visible": true,
+    "active": false,
+    "events": [
       {
-        title: "Project GLOW Afterparty: DJ Mandy",
-        image: "",
-        start: "May 30, 2026, 10:00 PM",
-        end: "",
-        location: "Other Venues",
-        description: "Get Tickets"
+        "title": "Project GLOW Afterparty: DJ Mandy",
+        "image": "",
+        "start": "May 30, 2026, 10:00 PM",
+        "end": "",
+        "location": "Other Venues",
+        "description": "Get Tickets"
       },
       {
-        title: "Project GLOW Afterparty: KREAM",
-        image: "",
-        start: "May 30, 2026, 10:00 PM",
-        end: "",
-        location: "Other Venues",
-        description: "Get Tickets"
+        "title": "Project GLOW Afterparty: KREAM",
+        "image": "",
+        "start": "May 30, 2026, 10:00 PM",
+        "end": "",
+        "location": "Other Venues",
+        "description": "Get Tickets"
       },
       {
-        title: "Project GLOW Afterparty: Discip",
-        image: "",
-        start: "May 31, 2026, 10:00 PM",
-        end: "",
-        location: "Other Venues",
-        description: ""
+        "title": "Project GLOW Afterparty: Discip",
+        "image": "",
+        "start": "May 31, 2026, 10:00 PM",
+        "end": "",
+        "location": "Other Venues",
+        "description": ""
       }
     ]
   }

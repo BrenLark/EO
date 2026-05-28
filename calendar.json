@@ -1,4 +1,4 @@
-export const projectGlowStages: Stages = [
+[
   {
     name: "ETERNAL",
     description: "Main Stage",
@@ -530,4 +530,4 @@ export const projectGlowStages: Stages = [
       }
     ]
   }
-];
+]

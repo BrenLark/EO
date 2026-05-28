@@ -1,322 +1,533 @@
-[
+export const projectGlowStages: Stages = [
   {
-    "name": "Pre & Afters",
-    "description": "",
-    "color": "#e70000",
-    "visible": true,
-    "events": [
+    name: "ETERNAL",
+    description: "Main Stage",
+    color: "#E2B714",
+    visible: true,
+    active: true,
+    events: [
+      // SATURDAY, MAY 30
       {
-        "title": "Marqueue",
-        "image": "",
-        "start": "2025-09-20T02:00:00.000Z",
-        "end": "2025-09-19T07:00:00.000Z",
-        "location": "The Edge NYC",
-        "description": ""
+        title: "DISCOVERY PROJECT: HOME BY DAWN",
+        image: "",
+        start: "May 30, 2026, 1:00 PM",
+        end: "May 30, 2026, 2:00 PM",
+        location: "ETERNAL",
+        description: ""
       },
       {
-        "title": "Brooklyn Storehouse",
-        "image": "",
-        "start": "2025-09-21T02:00:00.000Z",
-        "end": "2025-09-21T09:00:00.000Z",
-        "location": "Building 293, Brooklyn Navy Yard, Assembly Rd, Brooklyn, NY 11205",
-        "description": ""
+        title: "CHASEONAUX",
+        image: "",
+        start: "May 30, 2026, 2:00 PM",
+        end: "May 30, 2026, 3:30 PM",
+        location: "ETERNAL",
+        description: ""
       },
       {
-        "title": "Unveiled",
-        "image": "",
-        "start": "2025-09-21T02:00:00.000Z",
-        "end": "2025-09-21T08:00:00.000Z",
-        "location": "94 N 13th St, Brooklyn, NY 11249",
-        "description": ""
+        title: "DISTANT MATTER",
+        image: "",
+        start: "May 30, 2026, 3:30 PM",
+        end: "May 30, 2026, 4:30 PM",
+        location: "ETERNAL",
+        description: ""
       },
       {
-        "title": "53 Scott",
-        "image": "",
-        "start": "2025-09-22T02:30:00.000Z",
-        "end": "2025-09-21T06:00:00.000Z",
-        "location": "53 Scott Avenue, Brooklyn, NY 11237",
-        "description": ""
+        title: "DJ MANDY",
+        image: "",
+        start: "May 30, 2026, 4:30 PM",
+        end: "May 30, 2026, 5:30 PM",
+        location: "ETERNAL",
+        description: ""
       },
       {
-        "title": "Refuge",
-        "image": "",
-        "start": "2025-09-22T03:00:00.000Z",
-        "end": "2025-09-21T07:00:00.000Z",
-        "location": "360 Ten Eyck St, Brooklyn, NY 11206",
-        "description": ""
+        title: "LILLY PALMER",
+        image: "",
+        start: "May 30, 2026, 5:30 PM",
+        end: "May 30, 2026, 6:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "KREAM",
+        image: "",
+        start: "May 30, 2026, 6:30 PM",
+        end: "May 30, 2026, 7:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "DISCO LINES",
+        image: "",
+        start: "May 30, 2026, 7:30 PM",
+        end: "May 30, 2026, 8:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "SARA LANDRY",
+        image: "",
+        start: "May 30, 2026, 8:30 PM",
+        end: "May 30, 2026, 9:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "ERIC PRYDZ",
+        image: "",
+        start: "May 30, 2026, 9:45 PM",
+        end: "May 30, 2026, 11:00 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      // SUNDAY, MAY 31
+      {
+        title: "ARYLIA",
+        image: "",
+        start: "May 31, 2026, 1:00 PM",
+        end: "May 31, 2026, 2:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "PROBCAUSE",
+        image: "",
+        start: "May 31, 2026, 2:30 PM",
+        end: "May 31, 2026, 3:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "AVELLO",
+        image: "",
+        start: "May 31, 2026, 3:30 PM",
+        end: "May 31, 2026, 4:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "YDG",
+        image: "",
+        start: "May 31, 2026, 4:30 PM",
+        end: "May 31, 2026, 5:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "NINAJIRACHI",
+        image: "",
+        start: "May 31, 2026, 5:30 PM",
+        end: "May 31, 2026, 6:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "ALLEYCVT",
+        image: "",
+        start: "May 31, 2026, 6:30 PM",
+        end: "May 31, 2026, 7:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "GRYFFIN (SUNSET SET)",
+        image: "",
+        start: "May 31, 2026, 7:30 PM",
+        end: "May 31, 2026, 8:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "PORTER ROBINSON (DJ SET)",
+        image: "",
+        start: "May 31, 2026, 8:30 PM",
+        end: "May 31, 2026, 9:30 PM",
+        location: "ETERNAL",
+        description: ""
+      },
+      {
+        title: "EXCISION B2B SULLIVAN KING",
+        image: "",
+        start: "May 31, 2026, 9:45 PM",
+        end: "May 31, 2026, 11:00 PM",
+        location: "ETERNAL",
+        description: ""
       }
     ]
   },
   {
-    "name": "Main Stage",
-    "description": "",
-    "color": "#64f710",
-    "visible": true,
-    "events": [
+    name: "PULSE",
+    description: "Hosted by Bassrush (Sat) / Insomniac Records (Sun)",
+    color: "#ff00ff",
+    visible: true,
+    active: false,
+    events: [
+      // SATURDAY, MAY 30
       {
-        "title": "Lumina",
-        "image": "",
-        "start": "2025-09-21T19:00:00.000Z",
-        "end": "2025-09-21T20:00:00.000Z",
-        "location": "Main Stage",
-        "description": ""
+        title: "WOOK APPRUVD",
+        image: "",
+        start: "May 30, 2026, 1:00 PM",
+        end: "May 30, 2026, 1:35 PM",
+        location: "PULSE",
+        description: ""
       },
       {
-        "title": "Tini Gessler",
-        "image": "",
-        "start": "2025-09-21T20:00:00.000Z",
-        "end": "2025-09-21T21:00:00.000Z",
-        "location": "Main Stage",
-        "description": ""
+        title: "SHIZZ LO B2B BRAINRACK",
+        image: "",
+        start: "May 30, 2026, 1:35 PM",
+        end: "May 30, 2026, 2:35 PM",
+        location: "PULSE",
+        description: ""
       },
       {
-        "title": "LP Giobbi",
-        "image": "",
-        "start": "2025-09-21T21:00:00.000Z",
-        "end": "2025-09-21T22:30:00.000Z",
-        "location": "Main Stage",
-        "description": ""
+        title: "FLY",
+        image: "",
+        start: "May 30, 2026, 2:35 PM",
+        end: "May 30, 2026, 3:35 PM",
+        location: "PULSE",
+        description: ""
       },
       {
-        "title": "Kaskade B2B Cassian",
-        "image": "",
-        "start": "2025-09-21T22:30:00.000Z",
-        "end": "2025-09-22T00:00:00.000Z",
-        "location": "Main Stage",
-        "description": ""
+        title: "MARY DROPPINZ",
+        image: "",
+        start: "May 30, 2026, 3:35 PM",
+        end: "May 30, 2026, 4:35 PM",
+        location: "PULSE",
+        description: ""
       },
       {
-        "title": "John Summit",
-        "image": "",
-        "start": "2025-09-22T00:00:00.000Z",
-        "end": "2025-09-22T02:00:00.000Z",
-        "location": "Main Stage",
-        "description": ""
+        title: "EFFIN",
+        image: "",
+        start: "May 30, 2026, 4:35 PM",
+        end: "May 30, 2026, 5:35 PM",
+        location: "PULSE",
+        description: ""
       },
       {
-        "title": "Kamino",
-        "image": "",
-        "start": "2025-09-20T19:00:00.000Z",
-        "end": "2025-09-20T20:00:00.000Z",
-        "location": "Main Stage",
-        "description": ""
+        title: "G JONES B2B EPROM",
+        image: "",
+        start: "May 30, 2026, 5:35 PM",
+        end: "May 30, 2026, 6:35 PM",
+        location: "PULSE",
+        description: ""
       },
       {
-        "title": "Roddy Lima",
-        "image": "",
-        "start": "2025-09-20T20:00:00.000Z",
-        "end": "2025-09-20T21:00:00.000Z",
-        "location": "Main Stage",
-        "description": ""
+        title: "DIMENSION",
+        image: "",
+        start: "May 30, 2026, 6:35 PM",
+        end: "May 30, 2026, 7:35 PM",
+        location: "PULSE",
+        description: ""
       },
       {
-        "title": "Ayybo",
-        "image": "",
-        "start": "2025-09-20T21:00:00.000Z",
-        "end": "2025-09-20T22:30:00.000Z",
-        "location": "Main Stage",
-        "description": ""
+        title: "RAY VOLPE",
+        image: "",
+        start: "May 30, 2026, 7:35 PM",
+        end: "May 30, 2026, 8:35 PM",
+        location: "PULSE",
+        description: ""
       },
       {
-        "title": "Green Velvet B2B Layton Giordani",
-        "image": "",
-        "start": "2025-09-20T22:30:00.000Z",
-        "end": "2025-09-21T00:00:00.000Z",
-        "location": "Main Stage",
-        "description": ""
+        title: "WOOLI",
+        image: "",
+        start: "May 30, 2026, 8:35 PM",
+        end: "May 30, 2026, 9:35 PM",
+        location: "PULSE",
+        description: ""
       },
       {
-        "title": "John Summit",
-        "image": "",
-        "start": "2025-09-21T00:00:00.000Z",
-        "end": "2025-09-21T02:00:00.000Z",
-        "location": "Main Stage",
-        "description": ""
+        title: "ZEDS DEAD",
+        image: "",
+        start: "May 30, 2026, 9:45 PM",
+        end: "May 30, 2026, 11:00 PM",
+        location: "PULSE",
+        description: ""
+      },
+      // SUNDAY, MAY 31
+      {
+        title: "DAMON PIRKO & CHASE NORMAN",
+        image: "",
+        start: "May 31, 2026, 1:00 PM",
+        end: "May 31, 2026, 1:45 PM",
+        location: "PULSE",
+        description: ""
+      },
+      {
+        title: "AVISHEK",
+        image: "",
+        start: "May 31, 2026, 1:45 PM",
+        end: "May 31, 2026, 2:45 PM",
+        location: "PULSE",
+        description: ""
+      },
+      {
+        title: "SAMA",
+        image: "",
+        start: "May 31, 2026, 2:45 PM",
+        end: "May 31, 2026, 3:45 PM",
+        location: "PULSE",
+        description: ""
+      },
+      {
+        title: "LINSKA",
+        image: "",
+        start: "May 31, 2026, 3:45 PM",
+        end: "May 31, 2026, 4:45 PM",
+        location: "PULSE",
+        description: ""
+      },
+      {
+        title: "COCO & BREEZY",
+        image: "",
+        start: "May 31, 2026, 4:45 PM",
+        end: "May 31, 2026, 5:45 PM",
+        location: "PULSE",
+        description: ""
+      },
+      {
+        title: "DISCIP B2B RODDY LIMA",
+        image: "",
+        start: "May 31, 2026, 5:45 PM",
+        end: "May 31, 2026, 6:45 PM",
+        location: "PULSE",
+        description: ""
+      },
+      {
+        title: "MAX STYLER",
+        image: "",
+        start: "May 31, 2026, 6:45 PM",
+        end: "May 31, 2026, 7:45 PM",
+        location: "PULSE",
+        description: ""
+      },
+      {
+        title: "LP GIOBBI",
+        image: "",
+        start: "May 31, 2026, 7:45 PM",
+        end: "May 31, 2026, 8:45 PM",
+        location: "PULSE",
+        description: ""
+      },
+      {
+        title: "CLOONEE",
+        image: "",
+        start: "May 31, 2026, 8:45 PM",
+        end: "May 31, 2026, 9:45 PM",
+        location: "PULSE",
+        description: ""
+      },
+      {
+        title: "MAU P",
+        image: "",
+        start: "May 31, 2026, 9:45 PM",
+        end: "May 31, 2026, 11:00 PM",
+        location: "PULSE",
+        description: ""
       }
     ]
   },
   {
-    "name": "Mirror Field",
-    "description": "",
-    "color": "#b400ff",
-    "visible": true,
-    "events": [
+    name: "SECRET GARDEN",
+    description: "Secret Garden Stage",
+    color: "#E2B714",
+    visible: true,
+    active: false,
+    events: [
+      // SATURDAY, MAY 30
       {
-        "title": "Eve Lauren",
-        "image": "",
-        "start": "2025-09-20T19:00:00.000Z",
-        "end": "2025-09-20T20:00:00.000Z",
-        "location": "Mirror Field",
-        "description": ""
+        title: "SHEWOLFF",
+        image: "",
+        start: "May 30, 2026, 1:00 PM",
+        end: "May 30, 2026, 2:15 PM",
+        location: "SECRET GARDEN",
+        description: ""
       },
       {
-        "title": "Evamour B2B Weska",
-        "image": "",
-        "start": "2025-09-20T20:00:00.000Z",
-        "end": "2025-09-20T21:00:00.000Z",
-        "location": "Mirror Field",
-        "description": ""
+        title: "SILVERTONE",
+        image: "",
+        start: "May 30, 2026, 2:15 PM",
+        end: "May 30, 2026, 3:15 PM",
+        location: "SECRET GARDEN",
+        description: ""
       },
       {
-        "title": "Teed",
-        "image": "",
-        "start": "2025-09-20T21:00:00.000Z",
-        "end": "2025-09-20T22:30:00.000Z",
-        "location": "Mirror Field",
-        "description": ""
+        title: "MISHA",
+        image: "",
+        start: "May 30, 2026, 3:15 PM",
+        end: "May 30, 2026, 4:15 PM",
+        location: "SECRET GARDEN",
+        description: ""
       },
       {
-        "title": "Pete Tong",
-        "image": "",
-        "start": "2025-09-20T22:30:00.000Z",
-        "end": "2025-09-21T00:00:00.000Z",
-        "location": "Mirror Field",
-        "description": ""
+        title: "KY WILLIAM",
+        image: "",
+        start: "May 30, 2026, 4:15 PM",
+        end: "May 30, 2026, 5:15 PM",
+        location: "SECRET GARDEN",
+        description: ""
       },
       {
-        "title": "Tony Y Not",
-        "image": "",
-        "start": "2025-09-21T19:00:00.000Z",
-        "end": "2025-09-21T19:50:00.000Z",
-        "location": "Mirror Field",
-        "description": ""
+        title: "RUZE",
+        image: "",
+        start: "May 30, 2026, 5:15 PM",
+        end: "May 30, 2026, 6:15 PM",
+        location: "SECRET GARDEN",
+        description: ""
       },
       {
-        "title": "??????????",
-        "image": "",
-        "start": "2025-09-21T19:50:00.000Z",
-        "end": "2025-09-21T20:50:00.000Z",
-        "location": "Mirror Field",
-        "description": ""
+        title: "RANGER TRUCCO",
+        image: "",
+        start: "May 30, 2026, 6:15 PM",
+        end: "May 30, 2026, 7:45 PM",
+        location: "SECRET GARDEN",
+        description: ""
       },
       {
-        "title": "Kasablanca (Live)",
-        "image": "",
-        "start": "2025-09-21T21:00:00.000Z",
-        "end": "2025-09-21T22:30:00.000Z",
-        "location": "Mirror Field",
-        "description": ""
+        title: "RIORDAN",
+        image: "",
+        start: "May 30, 2026, 7:45 PM",
+        end: "May 30, 2026, 9:00 PM",
+        location: "SECRET GARDEN",
+        description: ""
       },
       {
-        "title": "DJ Seinfeld",
-        "image": "",
-        "start": "2025-09-21T22:35:00.000Z",
-        "end": "2025-09-22T00:00:00.000Z",
-        "location": "Mirror Field",
-        "description": ""
+        title: "NICOLE MOUDABER B2B CHASEWEST",
+        image: "",
+        start: "May 30, 2026, 9:00 PM",
+        end: "May 30, 2026, 11:00 PM",
+        location: "SECRET GARDEN",
+        description: ""
+      },
+      // SUNDAY, MAY 31
+      {
+        title: "QUEER CHAOS",
+        image: "",
+        start: "May 31, 2026, 1:00 PM",
+        end: "May 31, 2026, 2:30 PM",
+        location: "SECRET GARDEN",
+        description: ""
+      },
+      {
+        title: "ED BAILEY",
+        image: "",
+        start: "May 31, 2026, 2:30 PM",
+        end: "May 31, 2026, 3:30 PM",
+        location: "SECRET GARDEN",
+        description: ""
+      },
+      {
+        title: "REZIDENT",
+        image: "",
+        start: "May 31, 2026, 3:30 PM",
+        end: "May 31, 2026, 4:30 PM",
+        location: "SECRET GARDEN",
+        description: ""
+      },
+      {
+        title: "HAYLA",
+        image: "",
+        start: "May 31, 2026, 4:30 PM",
+        end: "May 31, 2026, 5:45 PM",
+        location: "SECRET GARDEN",
+        description: ""
+      },
+      {
+        title: "SPENCER BROWN B2B QRION",
+        image: "",
+        start: "May 31, 2026, 5:45 PM",
+        end: "May 31, 2026, 6:45 PM",
+        location: "SECRET GARDEN",
+        description: ""
+      },
+      {
+        title: "COSMIC GATE",
+        image: "",
+        start: "May 31, 2026, 6:45 PM",
+        end: "May 31, 2026, 7:45 PM",
+        location: "SECRET GARDEN",
+        description: ""
+      },
+      {
+        title: "ELI & FUR",
+        image: "",
+        start: "May 31, 2026, 7:45 PM",
+        end: "May 31, 2026, 8:45 PM",
+        location: "SECRET GARDEN",
+        description: ""
+      },
+      {
+        title: "CASSIAN",
+        image: "",
+        start: "May 31, 2026, 8:45 PM",
+        end: "May 31, 2026, 9:45 PM",
+        location: "SECRET GARDEN",
+        description: ""
       }
     ]
   },
   {
-    "name": "Pwemium Wounge",
-    "description": "",
-    "color": "#ff9d00",
-    "visible": true,
-    "events": [
+    name: "Echostage",
+    description: "Official Pre-Parties and Afterparties",
+    color: "#000000",
+    visible: true,
+    active: false,
+    events: [
       {
-        "title": "Simmi",
-        "image": "",
-        "start": "2025-09-20T19:00:00.000Z",
-        "end": "2025-09-20T20:00:00.000Z",
-        "location": "Pwemium Wounge",
-        "description": ""
+        title: "Project GLOW Pre-Party: Ray Volpe",
+        image: "",
+        start: "May 29, 2026, 10:00 PM",
+        end: "",
+        location: "Echostage",
+        description: "Get Tickets"
       },
       {
-        "title": "Branqueeno",
-        "image": "",
-        "start": "2025-09-20T20:00:00.000Z",
-        "end": "2025-09-20T21:30:00.000Z",
-        "location": "Pwemium Wounge",
-        "description": ""
+        title: "Project GLOW Afterparty: Riordan b2b Ranger Trucco",
+        image: "",
+        start: "May 30, 2026, 10:00 PM",
+        end: "",
+        location: "Echostage",
+        description: "Get Tickets"
       },
       {
-        "title": "Beni Hana",
-        "image": "",
-        "start": "2025-09-20T21:30:00.000Z",
-        "end": "2025-09-20T23:00:00.000Z",
-        "location": "Pwemium Wounge",
-        "description": ""
-      },
-      {
-        "title": "B/AN/K",
-        "image": "",
-        "start": "2025-09-20T23:00:00.000Z",
-        "end": "2025-09-21T00:30:00.000Z",
-        "location": "Pwemium Wounge",
-        "description": ""
-      },
-      {
-        "title": "Poolhaus",
-        "image": "",
-        "start": "2025-09-21T00:30:00.000Z",
-        "end": "2025-09-21T02:00:00.000Z",
-        "location": "Pwemium Wounge",
-        "description": ""
-      },
-      {
-        "title": "Kenzii Scott",
-        "image": "",
-        "start": "2025-09-21T19:00:00.000Z",
-        "end": "2025-09-21T20:00:00.000Z",
-        "location": "Pwemium Wounge",
-        "description": ""
-      },
-      {
-        "title": "Van Der Laan",
-        "image": "",
-        "start": "2025-09-21T20:00:00.000Z",
-        "end": "2025-09-21T21:30:00.000Z",
-        "location": "Pwemium Wounge",
-        "description": ""
-      },
-      {
-        "title": "Josie.",
-        "image": "",
-        "start": "2025-09-21T21:30:00.000Z",
-        "end": "2025-09-21T23:00:00.000Z",
-        "location": "Pwemium Wounge",
-        "description": ""
-      },
-      {
-        "title": "Paver",
-        "image": "",
-        "start": "2025-09-21T23:00:00.000Z",
-        "end": "2025-09-22T00:30:00.000Z",
-        "location": "Pwemium Wounge",
-        "description": ""
-      },
-      {
-        "title": "Raw Safari",
-        "image": "",
-        "start": "2025-09-22T00:30:00.000Z",
-        "end": "2025-09-22T02:00:00.000Z",
-        "location": "Pwemium Wounge",
-        "description": ""
+        title: "Project GLOW Afterparty: Excision",
+        image: "",
+        start: "May 31, 2026, 10:00 PM",
+        end: "",
+        location: "Echostage",
+        description: "Get Tickets"
       }
     ]
   },
   {
-    "name": "Ferry",
-    "description": "",
-    "color": "#00a7fa",
-    "active": true,
-    "events": [
+    name: "Other Venues",
+    description: "Official Afterparties",
+    color: "#000000",
+    visible: true,
+    active: false,
+    events: [
       {
-        "title": "Ferry",
-        "image": "",
-        "start": "2025-09-20T18:30:00.000Z",
-        "end": "2025-09-21T03:30:00.000Z",
-        "location": "35th St. & Randalls Island",
-        "description": ""
+        title: "Project GLOW Afterparty: DJ Mandy",
+        image: "",
+        start: "May 30, 2026, 10:00 PM",
+        end: "",
+        location: "Other Venues",
+        description: "Get Tickets"
       },
       {
-        "title": "Ferry",
-        "image": "",
-        "start": "2025-09-21T18:30:00.000Z",
-        "end": "2025-09-22T03:30:00.000Z",
-        "location": "35th St. & Randalls Island",
-        "description": ""
+        title: "Project GLOW Afterparty: KREAM",
+        image: "",
+        start: "May 30, 2026, 10:00 PM",
+        end: "",
+        location: "Other Venues",
+        description: "Get Tickets"
+      },
+      {
+        title: "Project GLOW Afterparty: Discip",
+        image: "",
+        start: "May 31, 2026, 10:00 PM",
+        end: "",
+        location: "Other Venues",
+        description: ""
       }
     ]
   }
-]
+];

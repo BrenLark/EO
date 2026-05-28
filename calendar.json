@@ -2,7 +2,7 @@
   {
     "name": "ETERNAL",
     "description": "Main Stage",
-    "color": "#E2B714",
+    "color": "#14abe2",
     "visible": true,
     "active": true,
     "events": [
@@ -461,7 +461,7 @@
   {
     "name": "Echostage",
     "description": "Official Pre-Parties and Afterparties",
-    "color": "#000000",
+    "color": "#f86d56",
     "visible": true,
     "active": false,
     "events": [
@@ -469,7 +469,7 @@
         "title": "Project GLOW Pre-Party: Ray Volpe",
         "image": "",
         "start": "May 29, 2026, 10:00 PM",
-        "end": "",
+        "end": "May 30, 2026, 2:00 AM",
         "location": "Echostage",
         "description": "Get Tickets"
       },
@@ -477,7 +477,7 @@
         "title": "Project GLOW Afterparty: Riordan b2b Ranger Trucco",
         "image": "",
         "start": "May 30, 2026, 10:00 PM",
-        "end": "",
+        "end": "May 31, 2026, 2:00 AM",
         "location": "Echostage",
         "description": "Get Tickets"
       },
@@ -485,7 +485,7 @@
         "title": "Project GLOW Afterparty: Excision",
         "image": "",
         "start": "May 31, 2026, 10:00 PM",
-        "end": "",
+        "end": "June 1, 2026, 2:00 AM",
         "location": "Echostage",
         "description": "Get Tickets"
       }
@@ -494,7 +494,7 @@
   {
     "name": "Other Venues",
     "description": "Official Afterparties",
-    "color": "#000000",
+    "color": "#137fe6",
     "visible": true,
     "active": false,
     "events": [
@@ -502,7 +502,7 @@
         "title": "Project GLOW Afterparty: DJ Mandy",
         "image": "",
         "start": "May 30, 2026, 10:00 PM",
-        "end": "",
+        "end": "May 31, 2026, 2:00 AM",
         "location": "Other Venues",
         "description": "Get Tickets"
       },
@@ -510,7 +510,7 @@
         "title": "Project GLOW Afterparty: KREAM",
         "image": "",
         "start": "May 30, 2026, 10:00 PM",
-        "end": "",
+        "end": "May 31, 2026, 2:00 AM",
         "location": "Other Venues",
         "description": "Get Tickets"
       },
@@ -518,7 +518,7 @@
         "title": "Project GLOW Afterparty: Discip",
         "image": "",
         "start": "May 31, 2026, 10:00 PM",
-        "end": "",
+        "end": "June 1, 2026, 2:00 AM",
         "location": "Other Venues",
         "description": ""
       }
